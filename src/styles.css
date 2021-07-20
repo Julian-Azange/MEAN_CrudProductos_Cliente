@@ -1,0 +1,9 @@
+body{
+    background: rgb(0,201,255);
+    background: linear-gradient(90deg, rgba(0,201,255,1) 0%, rgba(146,254,157,1) 100%);
+}
+
+.titulo{
+    font-size: 1.8rem;
+    font-family: 'Montserrat', sans-serif;
+}
